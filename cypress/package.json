@@ -1,0 +1,13 @@
+{
+  "name": "cypress",
+  "version": "1.0.0",
+  "private": true,
+  "description": "ITDS362 automated UI testing lab - Cypress part",
+  "scripts": {
+    "test": "cypress run --browser chrome"
+  },
+  "devDependencies": {
+    "cypress": "16.2.1"
+  }
+}
+
